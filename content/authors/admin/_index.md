@@ -25,12 +25,12 @@ organizations:
     url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-Robot Collaboration, Industrial AI, Multimodal Deep Learning。
+bio: My research interests include Industrial AI, VLA Model, Multimodal Deep Learning。
 
 # Interests to show in About widget
 interests:
-  - Human-Robot Collaboration
   - Industrial AI
+  - Vision-Language Action (VLA) Model
   - Multimodal Deep Learning
 
 # Education to show in About widget
@@ -38,7 +38,7 @@ education:
   courses:
     - course: M.S. in SMF 
       institution: The Hong Kong Polytechnic University
-      year: 2025-2026
+      year: 2025-2027
     - course: B.S. in Computer Science
       institution: North China University of Technology
       year: 2020-2024
@@ -121,7 +121,7 @@ highlight_name: true
 #on Multimodal Fusion and Application of AI Agents in Industrial Scenarios such as UAV.
 ---
 
-Hi👋, welcome to my academic website! I am a master's student at the [Department of Industrial and Systems Engineering (ISE)](https://www.polyu.edu.hk/ise/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), and I work @ [RAIDS (Research Group of AI for Industrial Digital Servitization)](https://www.raids.group/) advised by [Dr. Liqiao Xia](https://www.polyu.edu.hk/ise/people/academic-staff/liqiao-xia/) and [Dr. Pai Zheng](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/). I work on **human-robot collaboration** and **industrial artificial intelligence**, especially in **aircraft manufacturing scenarios**.
+Hi👋, welcome to my academic website! I am a master's student at the [Department of Industrial and Systems Engineering (ISE)](https://www.polyu.edu.hk/ise/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), and I work @[RAIDS (Research Group of AI for Industrial Digital Servitization)](https://www.raids.group/) advised by [Dr. Liqiao Xia](https://www.polyu.edu.hk/ise/people/academic-staff/liqiao-xia/) and [Dr. Pai Zheng](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/). I work on  **Industrial AI** and **VLA Model**.
 
 Recently, I completed the release of [Mech-DLK 2.6.2](https://www.mech-mind.com/products/mech-dlk-deep-learning-software.html) at [MECH MIND Robot](https://www.mech-mind.com/) under the supervision of Ran Duan.
 
