@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of Smart Manufacturer
+role: Master Student @ISE
 
 # Organizations/Affiliations to show in About widget
 organizations:
