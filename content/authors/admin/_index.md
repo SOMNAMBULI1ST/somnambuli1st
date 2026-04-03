@@ -121,7 +121,7 @@ highlight_name: true
 #on Multimodal Fusion and Application of AI Agents in Industrial Scenarios such as UAV.
 ---
 
-Hi👋, welcome to visit my academic website!  I am a master's student at  [Department of Industrial and Systems Engineering(ISE)](https://www.polyu.edu.hk/ise/), [The Hong Kong Polytechnic University(PolyU)](https://www.polyu.edu.hk/), I work @[RAIDS(Research Group of AI for Industrial Digital Servitization)](https://www.raids.group/) advised by  [Dr. Liqiao Xia](https://www.polyu.edu.hk/ise/people/academic-staff/liqiao-xia/) and [Dr. Pai Zheng](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/) . I work on **human-robot collaboration** and **industrial artificial intelligence**, especially in **aircraft manufacturing scenario**. 
+Hi👋, welcome to my academic website! I am a master's student at the [Department of Industrial and Systems Engineering (ISE)](https://www.polyu.edu.hk/ise/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), and I work at [RAIDS (Research Group of AI for Industrial Digital Servitization)](https://www.raids.group/) advised by [Dr. Liqiao Xia](https://www.polyu.edu.hk/ise/people/academic-staff/liqiao-xia/) and [Dr. Pai Zheng](https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/). I work on **human-robot collaboration** and **industrial artificial intelligence**, especially in **aircraft manufacturing scenarios**.
 
 Recently, I completed the release of [Mech-DLK 2.6.2](https://www.mech-mind.com/products/mech-dlk-deep-learning-software.html) at [MECH MIND Robot](https://www.mech-mind.com/) under the supervision of Ran Duan.
 
