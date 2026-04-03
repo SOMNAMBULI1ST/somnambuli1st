@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: ZiyangZhang's Website # Website name
-baseURL: 'https://somnambuli1st.github.io/' # Website URL
+baseURL: 'https://somnambuli1st.github.io/somnambuli1st/' # Website URL
 
 ############################
 ## LANGUAGE
