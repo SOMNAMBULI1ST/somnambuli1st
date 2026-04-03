@@ -25,7 +25,7 @@ organizations:
     url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Industrial AI, Vision-Language Action (VLA) Model, Multimodal Deep Learning。
+bio: My research interests include Industrial AI, VLA Model, Multimodal Deep Learning。
 
 # Interests to show in About widget
 interests:
